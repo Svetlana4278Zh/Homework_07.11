@@ -32,5 +32,6 @@ public class Main {
         System.out.println(frog);
         frog += 4;
         System.out.println(frog);
+
     }
 }
